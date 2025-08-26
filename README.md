@@ -125,5 +125,3 @@ npm test
 ## Acknowledgments
 
 - Inspired by Peter Norvig's Sudoku solver essay
-
-Project Link: [https://github.com/yourusername/sudoku-solver](https://github.com/yourusername/sudoku-solver)
