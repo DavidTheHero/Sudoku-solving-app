@@ -122,17 +122,8 @@ npm test
 - Can solve expert-level puzzles in under 1 second
 - Memory efficient with O(1) space complexity for the solving algorithm
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspired by Peter Norvig's Sudoku solver essay
-- Thanks to all contributors who have helped improve this project
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
 
 Project Link: [https://github.com/yourusername/sudoku-solver](https://github.com/yourusername/sudoku-solver)
